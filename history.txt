@@ -1,0 +1,19 @@
+jobs
+bg 1
+jobs
+gedit
+bg 1
+jobs
+gedit 
+vi
+fg 1
+jobs
+vim
+jobs
+fg 1
+gedit
+cat out.txt
+cat < out.txt
+cat < ../sample.txt | wc -l >> out.txt
+repeat 5 echo hello
+repeat 2 repeat 5 echo hev.dsvm " "      ' " 	'
